@@ -1,0 +1,12 @@
+
+1. Router device login server(FTP/SFTP/Telnet/SSH...) IP address
+2. Router device login server service application port
+3. Login user name
+4. Login password for user name
+5. Login way/method(telnet/ftp/sftp/ssh)
+6. Parameters/Arguments
+7. Configuration file name on remote server file system
+8. Configuration file name specified local device directory
+
+
+

@@ -1,0 +1,37 @@
+
+/***********************
+DefaultUserName = "huaawei"
+DefaultPassword = "Huawei123!"
+DefaultLoginWay = "telnet" // telnet/ftp/sftp/ssh/etc
+DefaultPort     = "21"
+
+If user don't specified relate/corresponding information,
+system will automatically use default information to operate router device
+************************/
+
+/***********************
+User can set/reset default value as following example.
+#define DefaultUserName "huaawei"
+#define DefaultPassword "Huawei123!"
+#define DefaultLoginWay "telnet" // telnet/ftp/sftp/ssh/etc
+#define DefaultPort     "21"
+***********************/
+
+#define IP              192.168.1.5
+#define PORT            23
+#alias USERNAME         HeGuanglin
+#alias PASSWORD         HUAWEI123!
+
+/*
+
+IP PORT USERNAME PASSWORD ssh
+
+192.168.1.2 36 to 192.168.10.1
+172.16.1.1 - 172.16.1.10
+//10t.64.12222.5
+*/
+//IP PORT USERNAME PASSWORD ssh
+//IP PORT USERNAME PASSWORD ftp to 192.168.1.10
+//192.168.1.1-192.168.1.3
+//192.168.1.2-192.168.10.254
+//192.168.1.3 - 192.168.10.254

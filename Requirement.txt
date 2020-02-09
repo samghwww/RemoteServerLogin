@@ -1,0 +1,4 @@
+
+1. Login Remote/Local router device's FTP/SFTP server with/via telnet/ssh/console;
+2. Get configuration file to local device;
+3. Compare configuration file automatically with Beyond Compare. 
